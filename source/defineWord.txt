@@ -1,0 +1,16 @@
+.. |Buster.JS| replace:: :term:`Buster.JS`
+.. |buster.js| replace:: :term:`buster.js(設定ファイル)`
+
+.. |buster| replace:: `buster`_
+.. _`buster`: https://github.com/busterjs/buster
+
+.. |buster-core| replace:: `buster-core`_
+.. _`buster-core`: https://github.com/busterjs/buster-core
+
+.. |buster-dev-tools| replace:: `buster-dev-tools`_
+.. _`buster-dev-tools`: https://github.com/busterjs/buster-dev-tools
+
+.. |buster-docs| replace:: `buster-docs`_
+.. _`buster-docs`: https://github.com/busterjs/buster-docs
+
+.. _`Buster.JS`: http://busterjs.org/
