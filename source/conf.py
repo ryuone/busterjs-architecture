@@ -252,15 +252,19 @@ todo_include_todos=True
 
 sys.path.append(os.path.abspath('_themes'))
 html_theme_path = ['_themes']
-html_theme = 'default'
-html_theme_options = {
-    "stickysidebar" : "false",
-    "rightsidebar": "true",
-    "relbarbgcolor": "black",
-    "sidebarlinkcolor": "#33E",
-    "sidebarbgcolor": "#EEE",
-    "sidebartextcolor": "#333"
-}
+#html_theme = 'default'
+#html_theme_options = {
+#    "stickysidebar" : "false",
+#    "rightsidebar": "true",
+#    "relbarbgcolor": "black",
+#    "sidebarlinkcolor": "#33E",
+#    "sidebarbgcolor": "#EEE",
+#    "sidebartextcolor": "#333"
+#}
+
+html_theme = 'bootstrap'
+html_logo = ""
+
 
 rst_prolog=u"""
 .. include:: /defineWord.txt

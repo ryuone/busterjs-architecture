@@ -2,6 +2,9 @@
 参考にしたページ
 ================
 
+Sphinxについて
+================
+
 基本的なrst文章の書き方については以下が参考になります。
 
 * `Sphinxドキュメント — Sphinx documentation`_
@@ -18,3 +21,11 @@
 .. _`Sphinxを使ってプログラムドキュメントを楽しく書こう - maru source`: http://blog.h13i32maru.jp/blog/2012/05/29/sphinx-rest/
 .. _`独学Linux : ゼロからはじめるSphinx《入門編》`: http://blog.livedoor.jp/vine_user/archives/51917814.html
 
+----
+
+themeについて
+================
+
+* `ryan-roemer/sphinx-bootstrap-theme`_ ここのテーマを利用しています。
+
+.. _`ryan-roemer/sphinx-bootstrap-theme`: https://github.com/ryan-roemer/sphinx-bootstrap-theme
