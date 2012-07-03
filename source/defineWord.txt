@@ -1,11 +1,26 @@
 .. |Buster.JS| replace:: :term:`Buster.JS`
 .. |buster.js| replace:: :term:`buster.js(設定ファイル)`
 
-.. |buster| replace:: `buster`_
-.. _`buster`: https://github.com/busterjs/buster
+.. |buster| replace:: `busterモジュール`_
+.. _`busterモジュール`: https://github.com/busterjs/buster
+.. |buster(url)| replace:: https://github.com/busterjs/buster
 
-.. |buster-core| replace:: `buster-core`_
-.. _`buster-core`: https://github.com/busterjs/buster-core
+.. |buster-core| replace:: `buster-coreモジュール`_
+.. _`buster-coreモジュール`: https://github.com/busterjs/buster-core
+.. |buster-core(url)| replace:: https://github.com/busterjs/buster-core
+
+.. |buster-evented-logger| replace:: `buster-evented-loggerモジュール`_
+.. _`buster-evented-loggerモジュール`: https://github.com/busterjs/buster-evented-logger
+.. |buster-evented-logger(url)| replace:: https://github.com/busterjs/buster-evented-logger
+
+.. |buster-capture-server| replace:: `buster-capture-serverモジュール(Maybe change to 'ramp')`_
+.. _`buster-capture-serverモジュール(Maybe change to 'ramp')`: https://github.com/busterjs/buster-capture-server
+.. |buster-capture-server(url)| replace:: https://github.com/busterjs/buster-capture-server
+
+.. |buster-assertions| replace:: `buster-assertionsモジュール(Maybe change to 'tush')`_
+.. _`buster-assertionsモジュール(Maybe change to 'tush')`: https://github.com/busterjs/buster-assertions
+.. |buster-assertions(url)| replace:: https://github.com/busterjs/buster-assertions
+
 
 .. |buster-dev-tools| replace:: `buster-dev-tools`_
 .. _`buster-dev-tools`: https://github.com/busterjs/buster-dev-tools
