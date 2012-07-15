@@ -1,5 +1,9 @@
+
 .. |Buster.JS| replace:: :term:`Buster.JS`
 .. |buster.js| replace:: :term:`buster.js(設定ファイル)`
+.. |Christian| replace:: :term:`Christian Johansen`
+.. |August| replace:: :term:`August Lilleaas`
+
 
 .. |buster| replace:: `busterモジュール`_
 .. _`busterモジュール`: https://github.com/busterjs/buster
@@ -21,6 +25,15 @@
 .. _`buster-assertionsモジュール(Maybe change to 'tush')`: https://github.com/busterjs/buster-assertions
 .. |buster-assertions(url)| replace:: https://github.com/busterjs/buster-assertions
 
+.. |buster-format| replace:: `buster-formatモジュール`_
+.. _`buster-formatモジュール`: https://github.com/busterjs/buster-format
+.. |buster-format(url)| replace:: https://github.com/busterjs/buster-format
+
+.. |sinon(url)| replace:: https://github.com/cjohansen/Sinon.JS
+
+.. |buster-test| replace:: `buster-testモジュール`_
+.. _`buster-testモジュール`: https://github.com/busterjs/buster-test
+.. |buster-test(url)| replace:: https://github.com/busterjs/buster-test
 
 .. |buster-dev-tools| replace:: `buster-dev-tools`_
 .. _`buster-dev-tools`: https://github.com/busterjs/buster-dev-tools

@@ -23,7 +23,7 @@ Sphinxについて
 
 ----
 
-themeについて
+Themeについて
 ================
 
 * `ryan-roemer/sphinx-bootstrap-theme`_ ここのテーマを利用しています。

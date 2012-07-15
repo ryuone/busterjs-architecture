@@ -18,3 +18,17 @@
 
     * buster test時に何も指定しなかった場合、test/buster.jsまたはspec/buster.jsを設定ファイルとして参照する。
 
+   Christian Johansen
+    TDDJS(テスト駆動JavaScript)の著者であり、Sinon.JSの作者でもある。
+
+    http://cjohansen.no
+
+    * スライド
+
+      * http://www.slideshare.net/chrisjoha
+      * http://cjohansen.no/talks/2012/sdc-functional/
+      * http://cjohansen.no/talks/2011/busterjs/
+
+   August Lilleaas
+    http://augustl.com
+
