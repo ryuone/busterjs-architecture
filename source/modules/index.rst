@@ -25,6 +25,7 @@ buster-dev-toolsより引用
    buster-autotest
    buster-core
    buster-evented-logger
+   buster-test
    buster-format
 
 未定義
@@ -43,7 +44,6 @@ buster-dev-toolsより引用
 * buster-static
 * buster-syntax
 * buster-terminal
-* buster-test
 * buster-test-cli
 * buster-user-agent-parser
 * buster-util

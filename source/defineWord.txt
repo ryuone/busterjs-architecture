@@ -35,6 +35,14 @@
 .. _`buster-testモジュール`: https://github.com/busterjs/buster-test
 .. |buster-test(url)| replace:: https://github.com/busterjs/buster-test
 
+.. |buster-terminal| replace:: `buster-terminalモジュール`_
+.. _`buster-terminalモジュール`: https://github.com/busterjs/buster-terminal
+.. |buster-terminal(url)| replace:: https://github.com/busterjs/buster-terminal
+
+.. |stream-logger| replace:: `stream-loggerモジュール`_
+.. _`stream-loggerモジュール`: https://github.com/busterjs/stream-logger
+.. |stream-logger(url)| replace:: https://github.com/busterjs/stream-logger
+
 .. |buster-dev-tools| replace:: `buster-dev-tools`_
 .. _`buster-dev-tools`: https://github.com/busterjs/buster-dev-tools
 

@@ -158,6 +158,30 @@ http://busterjs.org/docs/assertions/
     }catch(e){
     }
 
+    /**
+     * buster.assert.isString上書き処理。
+     */
+    var class2type = {};
+    function makeClass2Type(){
+        function setObjectArray(name, index, array) {
+            class2type[ "[object " + name + "]" ] = name.toLowerCase();
+        }
+        "Boolean Number String Function Array Date RegExp Object".split(" ").forEach(setObjectArray);
+    }
+
+    ba.add("isString", {
+         assert: function (actual) {
+             return  class2type[toString.call(actual)] == "string";
+         },
+         assertMessage: "Expected ${0} (${actualType}) to be string",
+         refuteMessage: "Expected not to be string",
+         expectation: "toBeString"
+    });
+
+
+特徴
+==============================================
+
 依存するモジュール
 ==============================================
 
