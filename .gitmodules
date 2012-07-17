@@ -1,0 +1,3 @@
+[submodule "source/features-of-busterjs-modules"]
+	path = source/features-of-busterjs-modules
+	url = https://github.com/ryuone/features-of-busterjs-modules.git
