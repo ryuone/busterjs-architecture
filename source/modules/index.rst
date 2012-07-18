@@ -21,7 +21,7 @@ buster-dev-toolsより引用
    :maxdepth: 2
 
    buster
-   buster-assertions
+   referee
    buster-autotest
    buster-core
    buster-evented-logger

@@ -50,7 +50,7 @@ buster
 
    buster-core
    buster-evented-logger
-   buster-assertions
+   referee
    buster-format
    non_buster/sinon
    buster-test

@@ -21,9 +21,9 @@
 .. _`buster-capture-serverモジュール(Maybe change to 'ramp')`: https://github.com/busterjs/buster-capture-server
 .. |buster-capture-server(url)| replace:: https://github.com/busterjs/buster-capture-server
 
-.. |buster-assertions| replace:: `buster-assertionsモジュール(Maybe change to 'tush')`_
-.. _`buster-assertionsモジュール(Maybe change to 'tush')`: https://github.com/busterjs/buster-assertions
-.. |buster-assertions(url)| replace:: https://github.com/busterjs/buster-assertions
+.. |referee| replace:: `refereeモジュール`_
+.. _`refereeモジュール`: https://github.com/busterjs/referee
+.. |referee(url)| replace:: https://github.com/busterjs/referee
 
 .. |buster-format| replace:: `buster-formatモジュール`_
 .. _`buster-formatモジュール`: https://github.com/busterjs/buster-format

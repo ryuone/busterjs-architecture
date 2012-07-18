@@ -1,8 +1,8 @@
 =====================================================
-buster-assertions
+referee
 =====================================================
 
-|buster-assertions| とは
+|referee| とは
 ==============================================
 
 |Buster.JS| と |Buster.JS| 以外の為のAssertionsとExpectations。
@@ -114,7 +114,7 @@ buster.eventEmitterを継承している。
 ソースコード
 ==============================================
 
-|buster-assertions(url)| で管理されている。
+|referee(url)| で管理されている。
 
 
 ドキュメント
