@@ -57,6 +57,6 @@ buster-dev-toolsより引用
 =====================================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    extensions/buster-amd
