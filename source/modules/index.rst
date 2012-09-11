@@ -18,7 +18,7 @@ Buster.JSについて
 buster-dev-toolsより引用
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    buster
    referee
@@ -53,3 +53,10 @@ buster-dev-toolsより引用
 * ramp-resources
 * stream-logger
 
+|Buster.JS| Extensions
+=====================================================
+
+.. toctree::
+   :maxdepth: 2
+
+   extensions/buster-amd
