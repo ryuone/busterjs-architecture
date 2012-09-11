@@ -1,0 +1,46 @@
+body, p{
+    font-family: Palatino, Georgia, "Bitstream Charter", 'times new roman', serif;
+}
+
+dl{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+dl.function dd, dl.attribute dd, dl.data dd{
+    font-family: Palatino, Georgia, "Bitstream Charter", 'times new roman', serif;
+    margin-left: 20px;
+}
+
+dl.function dd table.field-list{
+    margin-left: 20px;
+}
+
+tt, code, kbd, samp{
+    font-family: Palatino, Georgia, "Bitstream Charter", 'times new roman', serif;
+}
+
+tt.descname{
+    color: #d6851e;
+}
+
+div.section{
+    padding-top: 20px;
+}
+
+h1{
+    font-size: 34px;
+    line-height: 46px;
+}
+
+h2{
+    border-left: 2px solid #333;
+    border-bottom: 2px solid #333;
+    border-radius: 0 0 0 8px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-left: 10px;
+}
+.line-block{
+    margin-top: 0.5em;
+}

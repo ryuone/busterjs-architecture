@@ -269,3 +269,6 @@ html_logo = ""
 rst_prolog=u"""
 .. include:: /defineWord.txt
 """
+
+def setup(app):
+    app.add_stylesheet('custom.css')
