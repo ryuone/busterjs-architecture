@@ -3,7 +3,7 @@ buster-amd
 =====================================================
 
 | 非同期モジュールをテストするために、AMD loaderを利用する。
-| 自分でloaderを準備する必要があります。loaderは ``require(deps, callback)`` で呼び出せる事を想定している。
+| 自分でloaderを準備する必要があり、 ``require(deps, callback)`` で呼び出せる事を想定している。
 
 インストール
 =====================================================
@@ -50,3 +50,12 @@ buster-amdの内部動作については、
 2. ``/buster/load-all.js`` がロードされたタイミングで ``require(deps, callback)`` を返す。
 
 本機能は ``ramp-resources`` の機能を利用している。
+
+``/buster/load-all.js`` は以下の様なJavaScriptを生成して返している。
+
+.. code-block:: javascript
+
+   require(['test/amd-test'], function(t0) {
+     console.log('loading');
+     buster.run();
+   });
